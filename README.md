@@ -1,2 +1,2 @@
 # theater
-created with technology - HTML, SCSS, JS ,adaptive layout
+created with technology - HTML, SCSS, JS,swiperjs ,adaptive layout
